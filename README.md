@@ -12,7 +12,6 @@ I also take on selective freelance collaborations for product-oriented software 
 
 ## Links
 - Personal website: https://francoisduquesne.com
-- Website source repository: https://github.com/FrancoisDuquesne/FrancoisDuquesne.github.io
 - GitHub profile: https://github.com/FrancoisDuquesne
 - LinkedIn: https://www.linkedin.com/in/francois-duquesne-aa213499/
 
